@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student from [Environmental Sciences and Engineering](http://cese.pku.edu.cn), [Peking University](https://www.pku.edu.cn/), also having a double major in [School of Life Sciences](https://www.pku.edu.cn). My research interest has shifted from to recently about the diseases in .....
-includes computer vision, computer graphics, machine learning, and computational photography.
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a senior undergraduate student from [Environmental Sciences and Engineering], CESE(http://cese.pku.edu.cn), [Peking University](https://www.pku.edu.cn/), also having a double major in [School of Life Sciences], SKY(https://www.pku.edu.cn). My research interest has shifted from microorganisms in the water environment to recently about the area of diseases: neurodegenerative diseases and cancer. I am very fortunate to be advised by [Prof. ZHANG Yan](https://bio.pku.edu.cn/homes/Index/news_cont_jl/17/95.html) from SKY, Peking University, studying the molecular mechanisms of Alzheimer Disease. Also, I was advised by [Prof. WEN Donghui](http://scholar.pku.edu.cn/dhwen) from CESE, Peking University, studying Micro-Ecology in the coastal areas.
 
 A data-driven personal website
 ======
