@@ -16,20 +16,16 @@ My Educational Background
 B.S. (Environmental Science), PKU, Sep 2020 – Jun 2024
 B.S. (Biology), PKU, Jun 2021 – Jun 2024
 
-Member of Beyond Boundary Program (BBP) in PKU, Sep 2021 – Jun 2024
+Member of _Beyond Boundary Program_ (BBP) in PKU, Sep 2021 – Jun 2024
 Participant Representing PKU in _Climate Connect_ (International Conference), Oct 2021 – Feb 2022
 
-
-
-Getting started
+My Research Experiences
 ======
-1. Re
-
-Site-wide configuration
+Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
 ------
 The 
 
-Create content & metadata
+Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
 ------
 For 
 
