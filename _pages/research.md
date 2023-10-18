@@ -1,35 +1,28 @@
 ---
 layout: archive
-title: "Research Experiences"
-permalink: /research/
+title: "Skills"
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
 {% include base_path %}
 
-# Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
-Advisor: Donghui Wen (Professor, Peking University)
-Time: Jun 2021 – Oct 2022
-## Environmental properties of the three studied bays in the research
-• Optimization and practice of MPs extraction from sediments: greatly reduced the detection limits of MPs’ size  
-• Measurement of physical and chemical properties of seawater and sediment and assessment of bays pollution
-## Basic characteristics of microbial communities in the studied bays
-• Diversity and species composition of the microbial communities: _α_ diversity, _β_ diversity  
-• Analysis of the mechanism of microbial community construction using neutral community model
-## Effects of MPs and other environmental factors on the microbial communities in the studied bays
-• MPs, as an emerging pollutant and with huge pollution, had no significant effects on microbial communities  
-
-# Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
-Advisor: Yan Zhang (Professor, Peking University)	
-Time: Jun 2023 – now
-## Discovery and verification of down-regulation of Ank G expression in AD model mice
-• Observation of fluorescent staining and analysis of spatial transcriptome sequencing in mouse brain sections  
-• Mouse brain proteins extraction and Western blot experiment  
-• _ANK3_ gene (encoding Ank G) knockout and rescue
-## Effects of down-regulated Ank G expression on AD model mice
-• Hippocampus atrophy observed by fluorescent staining in mouse brain sections  
-• Behavioral abnormalities observed by Morris water maze (MWM), Y maze, etc. 
-## Further studies (ongoing and to be updated)
-• Correlation between Ank G down-regulation and abnormal performance in AD model mice  
-• Relationship (signal pathways) between Ank G and neuronal death
-
-
+# Programming and Software:	
+R for data analysis and drawing; MATLAB for numerical calculation and simulation; C (basic)  
+Adobe Illustrator, Adobe Photoshop (for scientific drawing); ImageJ, MEGA11; ENVI
+# Experiment skills:
+## Biology: 
+• Genetics: Drosophila phenotypic recognition, salivary gland chromosome production; Studying D.melanogaster with GAL4/UAS, Flp/FRT system  
+• Cell Biology: Fluorescence microscopy, HeLa cells/neonatal mice neurons primary/secondary culture, immune-fluorescence staining, FISH, cell transfection  
+• Microbiology: Basic operation (coating, striating, etc.), isolation of microorganisms, phylogenetic analysis  
+• Biochemistry and Molecular Biology: (qRT-)PCR, gel electrophoresis related, protein cloning and expression  
+• Bioinformatics: Enrichment analysis, RNA-seq, Genomic analysis, 3D genome, single cell sequencing  
+• Plant and Animal Biology: Basic anatomy; mice study (genotype identification, brain protein extraction, etc.; acquired Employees in Laboratory Animals Post Certificate, Beijing, China in 2023.9)  
+## Chemistry: 
+Basic quantitative analysis: titration, weighing, spectral analysis (UV, IR, fluorescence); Instrument analysis: AES, AAS, NMR, GC, HPLC, GC-MS, electrochemical analysis
+## Environmental Sciences: 
+Atmospheric particle collection, Carbon/organic aerosol analysis; Analysis of physical and chemical properties of water (heavy metals, ammonia nitrogen, total phosphorus, etc.)
+# English:	
+IELTS 7.0; TOEFL 101; GRE 328
