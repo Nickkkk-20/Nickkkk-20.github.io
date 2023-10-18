@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course, TA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Peking University, School of Life Science"
+date: 2023-09-01
 location: "Beijing, China"
 ---
 
