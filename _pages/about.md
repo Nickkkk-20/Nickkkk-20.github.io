@@ -13,19 +13,19 @@ I am a senior undergraduate student from [Peking University](https://www.pku.edu
 
 My Educational Background
 ======
-B.S. (Environmental Science), PKU, Sep 2020 – Jun 2024
+B.S. (Environmental Science), PKU, Sep 2020 – Jun 2024  
 B.S. (Biology), PKU, Jun 2021 – Jun 2024
 
-Member of _Beyond Boundary Program_ (BBP) in PKU, Sep 2021 – Jun 2024
+Member of _Beyond Boundary Program_ (BBP) in PKU, Sep 2021 – Jun 2024  
 Participant Representing PKU in _Climate Connect_ (International Conference), Oct 2021 – Feb 2022
 
 My Research Experiences
 ======
-Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
+Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities  
 ------
 The 
 
-Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
+Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice  
 ------
 For 
 
