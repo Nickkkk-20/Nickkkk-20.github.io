@@ -3,12 +3,8 @@ layout: archive
 title: "Research Experiences"
 permalink: /research/
 author_profile: true
-
 ---
-
 {% include base_path %}
-
-【简介】
 
 # Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
 Advisor: Donghui Wen (Professor, Peking University)
