@@ -13,11 +13,15 @@ I am a senior undergraduate student from [Peking University](https://www.pku.edu
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). You can mail to me as well: [Email](mailto:2000013531@stu.pku.edu.cn).
 
+
+
 # My Educational Background
 B.S. (Environmental Science), PKU, Sep 2020 – Jun 2024  
 B.S. (Biology), PKU, Jun 2021 – Jun 2024  
 Member of _Beyond Boundary Program_ (BBP) in PKU, Sep 2021 – Jun 2024  
 Participant Representing PKU in _Climate Connect_ (International Conference), Oct 2021 – Feb 2022
+
+
 
 # My Research Experiences
 ## Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
@@ -46,15 +50,21 @@ Time: Jun 2023 – now
 • Correlation between Ank G down-regulation and abnormal performance in AD model mice  
 • Relationship (signal pathways) between Ank G and neuronal death
 
+
+
 # My Teaching Experiences
-## Genetics Lab., _teaching assistant_	Sep 2023 – Jan 2024
+## Genetics Lab.
+<font color=grey>_teaching assistant_	   Sep 2023 – Jan 2024</font>  
 • In class: tutored the students to carry out experiments such as the separation of salivary gland chromosomes of. _D. melanogaster_, basic methods for fruit fly phenotype identification, etc.
 • After class: conducted the culture and phenotype monitoring of experimental animals (_D. melanogaster_) required for class; prepared fruit fly culture medium and necessary experimental materials for class, etc.
-## Cell Biology Lab., _teaching assistant_	Sep 2023 – Jan 2024
+## Cell Biology Lab.
+<font color=grey>_teaching assistant_	   Sep 2023 – Jan 2024</font>
 • In class: tutored the students about the basic norms in the cell biology laboratory and the experimental operation methods such as continuous cell culture, immunohistochemical staining, etc.
 • After class: helped the instructors to prepared the necessary experimental materials for class and checked for cell culture and contamination conditions, etc.
 
-# My Scientific Skills
+
+
+# My Skills
 ## Programming and Software:	
 R for data analysis and drawing; MATLAB for numerical calculation and simulation; C (basic)  
 Adobe Illustrator, Adobe Photoshop (for scientific drawing); ImageJ, MEGA11; ENVI
