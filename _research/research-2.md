@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
+## <font color=blue> Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities </font> 
 Advisor: Donghui Wen (Professor, Peking University)  
 Time: Jun 2021 – Oct 2022
 ### Environmental properties of the three studied bays in the research
@@ -23,7 +23,7 @@ Time: Jun 2021 – Oct 2022
 
 
 
-## Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
+## <font color=blue>Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice  </font> 
 Advisor: Yan Zhang (Professor, Peking University)	  
 Time: Jun 2023 – now
 ### Discovery and verification of down-regulation of Ank G expression in AD model mice
