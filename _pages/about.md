@@ -54,15 +54,15 @@ Time: Jun 2023 – now
 
 # My Teaching Experiences
 ## Genetics Lab.
-<font color=grey>_teaching assistant_	   Sep 2023 – Jan 2024</font>  
-• In class: tutored the students to carry out experiments such as the separation of salivary gland chromosomes of. _D. melanogaster_, basic methods for fruit fly phenotype identification, etc.
+<font color=grey> _teaching assistant_	   Sep 2023 – Jan 2024</font>  
+• In class: tutored the students to carry out experiments such as the separation of salivary gland chromosomes of. _D. melanogaster_, basic methods for fruit fly phenotype identification, etc.  
 • After class: conducted the culture and phenotype monitoring of experimental animals (_D. melanogaster_) required for class; prepared fruit fly culture medium and necessary experimental materials for class, etc.
 ## Cell Biology Lab.
-<font color=grey>_teaching assistant_	   Sep 2023 – Jan 2024</font>
-• In class: tutored the students about the basic norms in the cell biology laboratory and the experimental operation methods such as continuous cell culture, immunohistochemical staining, etc.
+<font color=grey> _teaching assistant_	   Sep 2023 – Jan 2024</font>
+• In class: tutored the students about the basic norms in the cell biology laboratory and the experimental operation methods such as continuous cell culture, immunohistochemical staining, etc.  
 • After class: helped the instructors to prepared the necessary experimental materials for class and checked for cell culture and contamination conditions, etc.
-
-
+  
+  
 
 # My Skills
 ## Programming and Software:	
