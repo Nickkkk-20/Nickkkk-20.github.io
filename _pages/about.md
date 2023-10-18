@@ -11,7 +11,7 @@ redirect_from:
 
 I am a senior undergraduate student from [Peking University](https://www.pku.edu.cn/) (PKU), having double majors in **Environmental Science** from  [Environmental Sciences and Engineering](http://cese.pku.edu.cn) (CESE) and **Biology** from [School of Life Sciences](https://www.pku.edu.cn) (SKY). I am very fortunate to be advised by [Prof. Yan Zhang](https://bio.pku.edu.cn/homes/Index/news_cont_jl/17/95.html) from SKY, Peking University, studying the molecular mechanisms of Alzheimer Disease. Also, I was advised by [Prof. Donghui Wen](http://scholar.pku.edu.cn/dhwen) from CESE, Peking University, studying micro-ecology in the coastal areas based on sequencing techniques.
 
-You can find my CV here: [Yushu Wang's Curriculum Vitae](/assets/CV - Yushu WANG, PKU.pdf). You can mail to me as well: [Email](mailto:2000013531@stu.pku.edu.cn).
+You can find my CV here: [Yushu Wang's Curriculum Vitae](/assets/CV-YushuWANG,PKU.pdf). You can mail to me as well: [Email](mailto:2000013531@stu.pku.edu.cn).
 
 
 
@@ -25,7 +25,7 @@ Participant Representing PKU in _Climate Connect_ (International Conference), Oc
 
 # My Research Experiences
 ## Study on the characteristics of microplastics (MPs) pollution in offshore sediments and its effects on microbial communities
-Advisor: Donghui Wen (Professor, Peking University)
+Advisor: Donghui Wen (Professor, Peking University)  
 Time: Jun 2021 – Oct 2022
 ### Environmental properties of the three studied bays in the research
 • Optimization and practice of MPs extraction from sediments: greatly reduced the detection limits of MPs’ size  
@@ -37,7 +37,7 @@ Time: Jun 2021 – Oct 2022
 • MPs, as an emerging pollutant and with huge pollution, had no significant effects on microbial communities  
 
 ## Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
-Advisor: Yan Zhang (Professor, Peking University)	
+Advisor: Yan Zhang (Professor, Peking University)	  
 Time: Jun 2023 – now
 ### Discovery and verification of down-regulation of Ank G expression in AD model mice
 • Observation of fluorescent staining and analysis of spatial transcriptome sequencing in mouse brain sections  
@@ -83,5 +83,5 @@ Atmospheric particle collection, Carbon/organic aerosol analysis; Analysis of ph
 ## English:	
 IELTS 7.0; TOEFL 101; GRE 328
 
-Example: editing a markdown file for a talk
+ Example: editing a markdown file for a talk 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
