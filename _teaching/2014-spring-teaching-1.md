@@ -1,7 +1,7 @@
 ---
 title: "Genetics Lab."
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, TA"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Peking University, School of Life Science"
 date: 2014-01-01
