@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Cell Biology Lab."
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course, TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Peking University, School of Life Science"
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+• **In clas**s:   
+tutored the students about the basic norms in the cell biology laboratory and the experimental operation methods such as continuous cell culture, immunohistochemical staining, etc.  
+• **After class**:   
+helped the instructors to prepared the necessary experimental materials for class and checked for cell culture and contamination conditions, etc.
