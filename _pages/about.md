@@ -22,5 +22,8 @@ Member of _Beyond Boundary Program_ (BBP) in PKU, Sep 2021 – Jun 2024
 Participant Representing PKU in _Climate Connect_ (International Conference), Oct 2021 – Feb 2022
 
 
- Example: editing a markdown file for a talk 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# My Awards and Honors
+**2020**	 Excellent Award of Dean's Scholarship (Freshman) of College of Environmental Sciences and Engineering, Peking University; The Second Prize of Freshman Scholarship of Peking University  
+**2021**	 Merit Student of Peking University; Arowana Scholarship  
+**2022**	 Award for Academic Excellence of Peking University; The Third Prize of Peking University Scholarship  
+**2023**	 Merit Student of Peking University; Xiaomi Scholarship
