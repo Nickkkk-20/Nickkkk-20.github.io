@@ -23,13 +23,16 @@ Time: Jun 2021 – Oct 2022
 
 <div align=center>
 
-<img src="/_research/MPsRoute.png" width = "60%" alt="Route"/>
+<img src="/_research/MPsRoute.png" width = "60%" alt="Route"/>  
 
-![Route](/_research/MPsRoute.png)
 Fig.1 Research Design and Route   
-![MPs](/_research/MPsRichness_SpatialDistribution.png)
-Fig 2. Distribution of MPs in the studied bays   
-![RDA](/_research/RDA.png)   
+
+<img src="/_research/MPsRichness_SpatialDistribution.png" width = "50%" alt="MPs"/>  
+
+Fig 2. Distribution of MPs in the studied bays    
+
+<img src="/_research/RDA.png" width = "50%" alt="RDA"/>   
+
 Fig 3. RDA to demonstrate the relationship between environmental factors and the microbial communities  
 
 </div>
