@@ -23,15 +23,15 @@ Time: Jun 2021 – Oct 2022
 
 <div align=center>
 
-<img src="/_research/MPsRoute.png" width = "60%" alt="Route"/>  
+<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/MPsRoute.png" width = "60%" alt="Route"/>  
 
 Fig.1 Research Design and Route   
 
-<img src="/_research/MPsRichness_SpatialDistribution.png" width = "50%" alt="MPs"/>  
+<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/MPsRichness_SpatialDistribution.png" width = "50%" alt="MPs"/>  
 
 Fig 2. Distribution of MPs in the studied bays    
 
-<img src="/_research/RDA.png" width = "50%" alt="RDA"/>   
+<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/RDA.png" width = "50%" alt="RDA"/>   
 
 Fig 3. RDA to demonstrate the relationship between environmental factors and the microbial communities  
 
