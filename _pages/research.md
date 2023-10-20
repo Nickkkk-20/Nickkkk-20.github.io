@@ -21,21 +21,6 @@ Time: Jun 2021 – Oct 2022
 ## Effects of MPs and other environmental factors on the microbial communities in the studied bays
 • MPs, as an emerging pollutant and with huge pollution, had no significant effects on microbial communities  
 
-<div align=center>
-
-<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/MPsRoute.png" width = "60%" alt="Route"/>  
-
-Fig.1 Research Design and Route   
-
-<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/MPsRichness_SpatialDistribution.png" width = "50%" alt="MPs"/>  
-
-Fig 2. Distribution of MPs in the studied bays    
-
-<img src="https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/RDA.png" width = "50%" alt="RDA"/>   
-
-Fig 3. RDA to demonstrate the relationship between environmental factors and the microbial communities  
-
-</div>
 
 # Discovery and study of the function of Ankyrin G (Ank G) in the pathogenesis of Alzheimer’s Disease (AD) model mice
 Advisor: Yan Zhang (Professor, Peking University)	  
