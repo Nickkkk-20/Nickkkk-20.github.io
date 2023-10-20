@@ -22,15 +22,14 @@ Time: Jun 2021 – Oct 2022
 • MPs, as an emerging pollutant and with huge pollution, had no significant effects on microbial communities  
 
 <div align=center>
-<img src=/_research/MPsRoute.png width=60%/>   
-  
-<font color=grey> Fig.1 Research Design and Route </font>   
-<img src=/_research/MPsRichness_SpatialDistribution.png width=30%/> 
 
-<font color=grey> Fig 2. Distribution of MPs in the studied bays  </font>   
-<img src=/_research/RDA.png width=30%/>   
+![Route](/_research/MPsRoute.png)
+Fig.1 Research Design and Route   
+![MPs](/_research/MPsRichness_SpatialDistribution.png)
+Fig 2. Distribution of MPs in the studied bays   
+![RDA](/_research/RDA.png)   
+Fig 3. RDA to demonstrate the relationship between environmental factors and the microbial communities  
 
-<font color=grey> Fig 3. RDA to demonstrate the relationship between environmental factors and the microbial communities </font>   
 </div>
 
 
