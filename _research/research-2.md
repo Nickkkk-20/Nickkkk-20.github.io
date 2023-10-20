@@ -23,6 +23,8 @@ Time: Jun 2021 – Oct 2022
 
 <div align=center>
 
+<img src="/_research/MPsRoute.png" width = "60%" alt="Route"/>
+
 ![Route](/_research/MPsRoute.png)
 Fig.1 Research Design and Route   
 ![MPs](/_research/MPsRichness_SpatialDistribution.png)
