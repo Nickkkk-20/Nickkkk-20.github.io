@@ -25,6 +25,8 @@ Time: Jun 2021 – Oct 2022
 
 <img src="/_research/MPsRoute.png" width = "60%" alt="Route"/>  
 
+![RDA](https://github.com/Nickkkk-20/Nickkkk-20.github.io/blob/master/_research/RDA.png)
+
 Fig.1 Research Design and Route   
 
 <img src="/_research/MPsRichness_SpatialDistribution.png" width = "50%" alt="MPs"/>  
